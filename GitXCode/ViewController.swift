@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         print("Hello Git in XCode")
         print("Edit this LOC againnnnnn")
+        print("Oh oh, commit something")
     }
 
 
